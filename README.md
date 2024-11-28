@@ -3,13 +3,13 @@
 #### Fullstack developer
 
 
-I am an Undergraduate in Electrical Engineer. Recently learning Fullstack Development. Dsa, Software development and problem-Solving 
+I am an Undergraduate in Electrical Engineering. Recently learning Fullstack Development. DSA, Software development and problem-solving 
 
 Skills:  JS / HTML / CSS / JAVA /REACT/ Python /Node-js
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React , python, js , DSA  
-- 👯 I’m looking to collaborate on open Source Technology , Software Development, and Fullstack-development  
+- 🌱 I’m currently learning React, Python, JS, DSA  
+- 👯 I’m looking to collaborate on open Source Technology, Software Development, and Data Analyst  
 - 📫 How to reach me: https://twitter.com/arkapravobhuin 
 
 
