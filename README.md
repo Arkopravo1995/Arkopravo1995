@@ -1,6 +1,7 @@
 ![Fullstack developer](https://pbs.twimg.com/profile_banners/415047141/1644559746/1080x360)
 ### Hi there 👋, I am Arkopravo Bhuin
 #### Fullstack developer
+### Data Analyst
 
 
 I am an Undergraduate in Electrical Engineering. Recently learning Fullstack Development. DSA, Software development and problem-solving 
@@ -8,7 +9,7 @@ I am an Undergraduate in Electrical Engineering. Recently learning Fullstack Dev
 Skills:  JS / HTML / CSS / JAVA /REACT/ Python /Node-js
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React, Python, JS, DSA  
+- 🌱 I’m currently working in React, Python, JS, DSA  
 - 👯 I’m looking to collaborate on open Source Technology, Software Development, and Data Analyst  
 - 📫 How to reach me: https://twitter.com/arkapravobhuin 
 
