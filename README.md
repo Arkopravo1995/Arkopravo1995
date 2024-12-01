@@ -4,13 +4,15 @@
 ### Data Analyst
 Full Stack Developer | Passionate about Web Development and Continuous Learning
 
-Hello! I'm Arkopravo Bhuin, a budding Full Stack Developer with a strong foundation in creating dynamic and responsive web applications. I am Skilled in front-end and back-end technologies and enjoy transforming ideas into real-world solutions.
+Hello! I'm  Arkopravo Bhuin, a budding Full Stack Developer with a strong foundation in creating dynamic and responsive web applications. I am Skilled in front-end and back-end technologies and enjoy transforming ideas into real-world solutions.
 
-Front-End: HTML, CSS, JavaScript, React.js
+### Language: Java, Python
 
-Back-End: Node.js, Express.js, MongoDB
+### Front-End: HTML, CSS, JavaScript, React.js, React-native
 
-Tools & Technologies: Git, GitHub, RESTful APIs, Bootstrap
+### Back-End: Node.js, Express.js, MongoDB, spring-boot
+
+### Tools & Technologies: Git, GitHub, RESTful APIs, Bootstrap, AI.ML, Cloud
 
 🔍 Always eager to learn new technologies and improve my coding skills. Let's connect and collaborate on exciting projects!
 
