@@ -1,4 +1,4 @@
-![Fullstack developer](https://pbs.twimg.com/profile_banners/415047141/1644559746/1080x360)
+![Fullstack developer](https://pbs.twimg.com/profile_banners/415047141/1733087215/1080x360)
 ### Hi there 👋, I am Arkopravo Bhuin
 #### Fullstack developer
 ### Data Analyst
